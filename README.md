@@ -54,6 +54,6 @@ Use this repository as a **framework**, not a forecast. Always validate with cur
 
 ## 📬 Contact
 
-For collaboration, consulting, or portfolio review, connect via GitHub or LinkedIn.
+For collaboration, consulting, or portfolio review, connect via GitHub or Email.
 ---
 
